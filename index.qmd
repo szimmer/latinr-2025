@@ -5,7 +5,7 @@ title: "LatinR Conference Materials"
 
 Materials for [LatinR](https://latinr.org/) 
 
-Stephanie Zimmer is a Senior Research Statistician at RTI with a decade of experience in survey sampling and design, survey weighting and analysis, and data management. Stephanie is an expert statistical programmer and instructor and she and co‑authored the book Exploring Complex Survey Data Analysis Using R.
+Stephanie Zimmer is a Senior Research Statistician at RTI with a decade of experience in survey sampling and design, survey weighting and analysis, and data management. Stephanie is an expert statistical programmer and instructor. Dr. Zimmer co‑authored the book Exploring Complex Survey Data Analysis Using R.
 
 # [Transforming a team to open-source first](slides.qmd)
 
