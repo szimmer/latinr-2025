@@ -1,0 +1,6 @@
+---
+title: "Transforming a team to open-source first"
+format: revealjs
+---
+
+# First section
