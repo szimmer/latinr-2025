@@ -2,7 +2,7 @@
 title: "latinr-2025"
 ---
 
-This is a Quarto website.
+This is a Quarto website made by SAZ.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
