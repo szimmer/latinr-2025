@@ -1,12 +1,214 @@
 ---
-title: "LatinR Conference Materials"
+title: "Transforming a team to open-source first"
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    footer: '**CC BY-SA 4.0** [szimmer.github.io/latinr-2025/](https://szimmer.github.io/latinr-2025/)'
+    theme: dracula
 ---
 
+## About Me
 
-Materials for [LatinR](https://latinr.org/) 
+<center>
 
-Stephanie Zimmer is a Senior Research Statistician at RTI with a decade of experience in survey sampling and design, survey weighting and analysis, and data management. Stephanie is an expert statistical programmer and instructor. Dr. Zimmer co‑authored the book Exploring Complex Survey Data Analysis Using R.
+<img src="img/Zimmer_Stephanie_510.jpg" style="border-radius: 50%;" width="300px"/>
 
-# [Transforming a team to open-source first](slides.qmd)
+[![](img/RTI_logo_rgb_1in.png){width=10%}](https://www.rti.org/expert/stephanie-zimmer)
 
-Three years ago, a small group at my work formed an open-source software committee in a land where statisticians primarily used a commercially available software. We wanted to champion an open-source first initiative and convert people and projects to using open-source software. I will talk about what we did to make this happen and how the process accelerated. Some of the key things I was involved in were open-source office hours which formed a great community, developing an R package when we couldn’t find something we needed in R, and developing small examples of common things we do in our work in R with a comparison to the prior method.
+[{{< fa brands linkedin >}} \@stephanie-zimmer](https://www.linkedin.com/in/stephanie-zimmer/)
+
+[{{< fa brands github >}} \@szimmer](https://github.com/szimmer)
+
+[{{< fa brands bluesky >}} \@statsteph.bsky.social](https://bsky.app/profile/statsteph.bsky.social)
+
+
+
+
+::: {.notes}
+- My name is Stephanie Zimmer
+- Senior Reasearch Statistician at RTI international
+- My role includes working on large surveys - sampling design, weighting, overseeing data production
+- My day-to-day includes lots of management-ish stuff and meetings but I still code quite a bit
+:::
+
+
+## My personal coding journey
+
+
+- NC State University: Bachelor's in Statistics included SAS and MATLAB
+
+- Iowa State University: PhD in Statistics included R
+
+- RTI: Research statistician, back to learning SAS, still using R
+
+::: {layout-ncol=2}
+
+![](https://www.r-project.org/logo/Rlogo.png){width=45% fig-alt="R logo <https://www.r-project.org/logo/>"}
+![](img/sas-logo-sas-blue.png){width=45% fig-alt="SAS Logo <https://www.sas.com/en_us/news/media-gallery/logos.html>"}
+:::
+
+
+
+:::{.notes}
+- No programming exposure in high school
+- Various stats SAS classes, one math modeling course. 
+- Learned R before the tidyverse
+- RTI sent me to SAS classes, learned quickly with a community of experts
+:::
+
+## My human language journey
+
+- Native English speaker with Native English parents {{< fa child >}}
+
+- Studied German in high school for 3 years {{< fa book >}} {{< fa school >}}
+
+- Began learning Spanish in 2020 {{< fa mobile >}} {{< fa laptop >}}  {{< fa people-group >}} 
+
+<!-- ::: {layout-ncol=2} -->
+<!-- ![](img/duo.svg){width=35% fig-alt="Duo the owl, Duolingo's mascot <https://www.duolingo.com/>"} -->
+<!-- ![](img/El-Centro-Hispano-Logo.png){width=45% fig-alt="El Centro Hispano Logo <https://elcentronc.org/>"} -->
+<!-- ::: -->
+
+
+::: {.notes}
+- German: chose to learn because my grandmother was from Germany. My mother could also speak German yet never taught it to me. Outside of them, not too useful. No community
+
+- Spanish: my husband's mother's primary language was Spanish. We were spending more time with her and I wanted to be able to understand more when she was speaking with him. In my every day life, I encounter people speaking Spanish - grocery store, restaurants, travel, and more
+
+- Started with Duolingo
+
+- Took a small online adult class with El Centro Hispano based in my city of Durham, NC
+
+- Began to listen more at home, try to speak
+:::
+
+## Team change toward open-source first
+
+- Stats team wants to take open-source first approach
+
+- Stats team primarily uses SAS currently
+
+- I love R and this is scary!
+
+:::{.notes}
+- Reflecting on how my human language journey parallels with RTI's organizational change
+- I said I would learn Spanish for many years before I sat down and did it in 2020
+- I had a strong motivator - my husband's mother
+- Learning alone on Duolingo only got me so far, had to add a real teacher and community experience
+:::
+
+# Our training approach
+
+## Self-paced learning
+
+- Curated list of free learning resources
+
+- Paid subscriptions to learning platforms
+
+:::{.notes}
+- Self-paced learning works well for basics
+- Learning platforms are mostly virtual and big hurdle was "OK, how do I do this on MY computer with MY data?"
+:::
+
+## Webinars showing off open-source
+
+- These were not tutorials
+
+- Provided demos, resources, and examples
+
+- Very good for demonstrating workflows common to our group
+
+:::{.notes}
+- We don't do much modeling
+- Mostly data cleaning, sampling, weighting
+:::
+
+## Create cohort of mentors
+
+- Staff with open-source experience
+
+- Mentors were not all advanced users
+
+- Mentors monitored an email, Slack channel, and Yammer pages for questions
+
+- Mentors hosted office hours (see next slides)
+
+## Office hours (1.0)
+
+- Started to fill in the gap of self-paced learning
+
+- Intention: staff bring questions
+
+- Reality: mentors have topics in their back pocket
+
+- Not recorded
+
+:::{.notes}
+- Lots of discussion of how SAS & R *think* differently, vector operations vs program data vector
+- Initially thought recording would scare people into NOT asking questions
+- Had lots of lurkers/observers/wallflowers
+- People couldn't consistently attend and kept wanting to go back to basics
+:::
+
+## Office hours (2.0)
+
+- Mentors prepare material, lean towards tutorials
+
+- Recorded
+
+- Materials shared on enterprise GitHub (sneaky way to try to push this too...)
+
+- Created a mini project of work similar to our team's typical tasks
+
+:::{.notes}
+- reduced frequency from twice a week to once a week
+- email sent out ahead with topic planned for the day
+- allowed asycnhronous participation (complicated scheduling)
+- feedback that people are having trouble mapping generic training to their every day work
+- this is where we are now for office hours, lots of engagement
+:::
+
+# Conversion approach
+
+## Pilot projects
+
+- Small set of projects/tasks converted
+
+- More detail in: [useR 2025 - Navigating the Transition: Lessons from Adopting an Open-Source Approach - Carlos Petzold](https://www.youtube.com/watch?v=TPH76v0d8Wo)
+
+## Demonstrate success
+
+- Show off projects already using open-source or recently converted
+
+- Have staff discuss their experiences
+
+:::{.notes}
+- Demonstrate tasks (not even full projects) that are using R
+- Use staff that already know R (mostly earlier career staff)
+:::
+
+## Building our own tools
+
+- In-house package developed for codebook creation
+
+- Package developed for survey sampling, [SampleSelectR](https://github.com/RTIInternational/SampleSelectR)
+
+- Cheatsheets for comparing R and SAS for common tasks
+
+- AI tool made specifically for SAS to R conversion
+
+# Closing
+
+## Q & A
+
+<center>
+
+[![](img/RTI_logo_rgb_1in.png){width=10%}](https://www.rti.org/expert/stephanie-zimmer)
+
+[{{< fa brands linkedin >}} \@stephanie-zimmer](https://www.linkedin.com/in/stephanie-zimmer/)
+
+[{{< fa brands github >}} \@szimmer](https://github.com/szimmer)
+
+[{{< fa brands bluesky >}} \@statsteph.bsky.social](https://bsky.app/profile/statsteph.bsky.social)
+
