@@ -27,7 +27,7 @@ format:
 
 ::: {.notes}
 - My name is Stephanie Zimmer
-- Senior Reasearch Statistician at RTI international
+- Senior Research Statistician at RTI international
 - My role includes working on large surveys - sampling design, weighting, overseeing data production
 - My day-to-day includes lots of management-ish stuff and meetings but I still code quite a bit
 :::
