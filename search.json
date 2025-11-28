@@ -4,7 +4,7 @@
     "href": "index.html#about-me",
     "title": "Transforming a team to open-source first",
     "section": "About Me",
-    "text": "About Me\n\n\n\n @stephanie-zimmer\n @szimmer\n @statsteph.bsky.social\n\n\nMy name is Stephanie Zimmer\nSenior Research Statistician at RTI international\nMy role includes working on large surveys - sampling design, weighting, overseeing data production\nMy day-to-day includes lots of management-ish stuff and meetings but I still code quite a bit"
+    "text": "About Me\n\n\n\n @stephanie-zimmer\n @szimmer\n @statsteph.bsky.social\n\n\nMy name is Stephanie Zimmer\nSenior Research Statistician at RTI international\nMy role includes working on large surveys - sampling design, weighting, overseeing data production\nMy day-to-day includes lots of management-ish stuff and meetings but I still code quite a bit\nMy stats group works on official statistics - censuses, surveys, and administrative data projects\nSampling, weighting, data cleaning, and analysis"
   },
   {
     "objectID": "index.html#my-personal-coding-journey",
@@ -18,14 +18,14 @@
     "href": "index.html#my-human-language-journey",
     "title": "Transforming a team to open-source first",
     "section": "My human language journey",
-    "text": "My human language journey\n\nNative English speaker with Native English parents \nStudied German in high school for 3 years  \nBegan learning Spanish in 2020   \n\n\n\n\n\n\n\nGerman: chose to learn because my grandmother was from Germany. My mother could also speak German yet never taught it to me. Outside of them, not too useful. No community\nSpanish: my husband’s mother’s primary language was Spanish. We were spending more time with her and I wanted to be able to understand more when she was speaking with him. In my every day life, I encounter people speaking Spanish - grocery store, restaurants, travel, and more\nStarted with Duolingo\nTook a small online adult class with El Centro Hispano based in my city of Durham, NC\nBegan to listen more at home, try to speak"
+    "text": "My human language journey\n\nNative English speaker with Native English parents \nStudied German in high school for 3 years  \nBegan learning Spanish in 2020   \n\n\n\nGerman: chose to learn because my grandmother was from Germany. My mother could also speak German yet never taught it to me. Outside of them, not too useful. No community\nSpanish: my husband’s mother’s primary language was Spanish. We were spending more time with her and I wanted to be able to understand more when she was speaking with him. In my every day life, I encounter people speaking Spanish - grocery store, restaurants, travel, and more\nStarted with Duolingo\nTook a small online adult class with El Centro Hispano based in my city of Durham, NC\nBegan to listen more at home, try to speak\nReflecting on my journey learning Spanish, I saw a lot of parallels with successful learning of R\nMotivation is important\nOnline learning only gets you so far\nCommunity is important"
   },
   {
     "objectID": "index.html#team-change-toward-open-source-first",
     "href": "index.html#team-change-toward-open-source-first",
     "title": "Transforming a team to open-source first",
     "section": "Team change toward open-source first",
-    "text": "Team change toward open-source first\n\nStats team wants to take open-source first approach\nStats team primarily uses SAS currently\nI love R and this is scary!\n\n\n\nReflecting on how my human language journey parallels with RTI’s organizational change\nI said I would learn Spanish for many years before I sat down and did it in 2020\nI had a strong motivator - my husband’s mother\nLearning alone on Duolingo only got me so far, had to add a real teacher and community experience"
+    "text": "Team change toward open-source first\n\nStats team wants to take open-source first approach\nStats team primarily using SAS\nI love R and this is scary!\n\n\n\nReflecting on how my human language journey parallels with RTI’s organizational change\nI said I would learn Spanish for many years before I sat down and did it in 2020\nI had a strong motivator - my husband’s mother\nLearning alone on Duolingo only got me so far, had to add a real teacher and community experience"
   },
   {
     "objectID": "index.html#self-paced-learning",
@@ -46,7 +46,7 @@
     "href": "index.html#create-cohort-of-mentors",
     "title": "Transforming a team to open-source first",
     "section": "Create cohort of mentors",
-    "text": "Create cohort of mentors\n\nStaff with open-source experience\nMentors were not all advanced users\nMentors monitored an email, Slack channel, and Yammer pages for questions\nMentors hosted office hours (see next slides)"
+    "text": "Create cohort of mentors\n\nStaff with open-source experience\nMentors were not all advanced users\nMentors monitored an email, Slack channel, and Yammer pages for questions\nMentors hosted office hours\n\n\n\nMentor group is VERY enthusiastic, we’ve got a Teams channel going and discuss successes and questions for each other regularly\nOffice hours were our biggest success with mentors which I will detail"
   },
   {
     "objectID": "index.html#office-hours-1.0",
@@ -89,26 +89,5 @@
     "title": "Transforming a team to open-source first",
     "section": "Q & A",
     "text": "Q & A\n\n\n @stephanie-zimmer\n @szimmer\n @statsteph.bsky.social"
-  },
-  {
-    "objectID": "slides.html#about-me",
-    "href": "slides.html#about-me",
-    "title": "Transforming a team to open-source first",
-    "section": "About Me",
-    "text": "About Me\n\n\n\n @stephanie-zimmer\n @szimmer\n @statsteph.bsky.social\n\n\nMy name is Stephanie Zimmer\nSenior Reasearch Statistician at RTI international\nMy role includes working on large surveys - sampling design, weighting, overseeing data production\nMy day-to-day includes lots of management-ish stuff and meetings but I still code quite a bit"
-  },
-  {
-    "objectID": "slides.html#my-personal-coding-journey",
-    "href": "slides.html#my-personal-coding-journey",
-    "title": "Transforming a team to open-source first",
-    "section": "My personal coding journey",
-    "text": "My personal coding journey\n\nNC State University: Bachelor’s in Statistics included SAS and MATLAB\nIowa State University: PhD in Statistics included R\nRTI: Research statistician, back to learning SAS, still using R\n\n\n\n\n\n \n\n\n\n\n\nNo programming exposure in high school\nVarious stats SAS classes, one math modeling course.\nLearned R before the tidyverse\nRTI sent me to SAS classes, learned quickly with a community of experts"
-  },
-  {
-    "objectID": "slides.html#my-human-language-journey",
-    "href": "slides.html#my-human-language-journey",
-    "title": "Transforming a team to open-source first",
-    "section": "My human language journey",
-    "text": "My human language journey\n\nNative English speaker with both parents as native English speakers\nStudied German in high school for 3 years\nBegan learning Spanish in 2020\n\n\n\n\n \n\n\n\n\n\nGerman: chose to learn because my grandmother was from Germany. My mother could also speak German yet never taught it to me. Outside of them, not too useful. No community\nSpanish: my husband’s mother’s primary language was Spanish. We were spending more time with her and I wanted to be able to understand more when she was speaking with him. In my every day life, I encounter people speaking Spanish - grocery store, restaurants, travel, and more\nStarted with Duolingo\nTook a small online adult class with El Centro Hispano based in my city of Durham, NC\nBegan to listen more at home, try to speak"
   }
 ]
