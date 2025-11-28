@@ -2,7 +2,7 @@
 title: "Transforming a team to open-source first"
 format: 
   revealjs:
-    slide-number: true
+    slide-number: false
     preview-links: auto
     footer: '**CC BY-SA 4.0** [szimmer.github.io/latinr-2025/](https://szimmer.github.io/latinr-2025/)'
     theme: dracula
@@ -30,6 +30,8 @@ format:
 - Senior Research Statistician at RTI international
 - My role includes working on large surveys - sampling design, weighting, overseeing data production
 - My day-to-day includes lots of management-ish stuff and meetings but I still code quite a bit
+- My stats group works on official statistics - censuses, surveys, and administrative data projects
+- Sampling, weighting, data cleaning, and analysis
 :::
 
 
@@ -65,12 +67,6 @@ format:
 
 - Began learning Spanish in 2020 {{< fa mobile >}} {{< fa laptop >}}  {{< fa people-group >}} 
 
-<!-- ::: {layout-ncol=2} -->
-<!-- ![](img/duo.svg){width=35% fig-alt="Duo the owl, Duolingo's mascot <https://www.duolingo.com/>"} -->
-<!-- ![](img/El-Centro-Hispano-Logo.png){width=45% fig-alt="El Centro Hispano Logo <https://elcentronc.org/>"} -->
-<!-- ::: -->
-
-
 ::: {.notes}
 - German: chose to learn because my grandmother was from Germany. My mother could also speak German yet never taught it to me. Outside of them, not too useful. No community
 
@@ -81,13 +77,21 @@ format:
 - Took a small online adult class with El Centro Hispano based in my city of Durham, NC
 
 - Began to listen more at home, try to speak
+
+- Reflecting on my journey learning Spanish, I saw a lot of parallels with successful learning of R
+
+- Motivation is important
+
+- Online learning only gets you so far
+
+- Community is important
 :::
 
 ## Team change toward open-source first
 
 - Stats team wants to take open-source first approach
 
-- Stats team primarily uses SAS currently
+- Stats team primarily using SAS
 
 - I love R and this is scary!
 
@@ -132,7 +136,13 @@ format:
 
 - Mentors monitored an email, Slack channel, and Yammer pages for questions
 
-- Mentors hosted office hours (see next slides)
+- Mentors hosted office hours
+
+:::{.notes}
+- Mentor group is VERY enthusiastic, we've got a Teams channel going and discuss successes and questions for each other regularly
+
+- Office hours were our biggest success with mentors which I will detail
+:::
 
 ## Office hours (1.0)
 
@@ -199,6 +209,12 @@ format:
 - AI tool made specifically for SAS to R conversion
 
 # Closing
+
+- Change is hard!
+
+- Community makes things better
+
+- Add opportunities of learning for introverts and extroverts
 
 ## Q & A
 
