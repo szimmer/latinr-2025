@@ -204,7 +204,7 @@ format:
 
 :::{.notes}
 - Some lessons learn included online trainings being too generic, some experienced staff should've started a bit of set-up with folks, open-ended "ask if you need" help didn't work
-- What wokred well: paired programming, small group with specific training/examples, AI tools and StackOverflow
+- What worked well: paired programming, small group with specific training/examples, AI tools and StackOverflow
 - Most new R users could work independently by the end of pilot
 :::
 
