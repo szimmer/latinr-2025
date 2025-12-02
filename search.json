@@ -4,28 +4,35 @@
     "href": "index.html#about-me",
     "title": "Transforming a team to open-source first",
     "section": "About Me",
-    "text": "About Me\n\n\n\n @stephanie-zimmer\n @szimmer\n @statsteph.bsky.social\n\n\nMy name is Stephanie Zimmer\nSenior Research Statistician at RTI international\nMy role includes working on large surveys - sampling design, weighting, overseeing data production\nMy day-to-day includes lots of management-ish stuff and meetings but I still code quite a bit\nMy stats group works on official statistics - censuses, surveys, and administrative data projects\nSampling, weighting, data cleaning, and analysis"
-  },
-  {
-    "objectID": "index.html#my-personal-coding-journey",
-    "href": "index.html#my-personal-coding-journey",
-    "title": "Transforming a team to open-source first",
-    "section": "My personal coding journey",
-    "text": "My personal coding journey\n\nNC State University: Bachelor’s in Statistics included SAS and MATLAB\nIowa State University: PhD in Statistics included R\nRTI: Research statistician, back to learning SAS, still using R\n\n\n\n\n \n\n\n\n\n\nNo programming exposure in high school\nVarious stats SAS classes, one math modeling course.\nLearned R before the tidyverse\nRTI sent me to SAS classes, learned quickly with a community of experts"
-  },
-  {
-    "objectID": "index.html#my-human-language-journey",
-    "href": "index.html#my-human-language-journey",
-    "title": "Transforming a team to open-source first",
-    "section": "My human language journey",
-    "text": "My human language journey\n\nNative English speaker with Native English parents \nStudied German in high school for 3 years  \nBegan learning Spanish in 2020   \n\n\n\nGerman: chose to learn because my grandmother was from Germany. My mother could also speak German yet never taught it to me. Outside of them, not too useful. No community\nSpanish: my husband’s mother’s primary language was Spanish. We were spending more time with her and I wanted to be able to understand more when she was speaking with him. In my every day life, I encounter people speaking Spanish - grocery store, restaurants, travel, and more\nStarted with Duolingo\nTook a small online adult class with El Centro Hispano based in my city of Durham, NC\nBegan to listen more at home, try to speak\nReflecting on my journey learning Spanish, I saw a lot of parallels with successful learning of R\nMotivation is important\nOnline learning only gets you so far\nCommunity is important"
+    "text": "About Me\n\n\n\n @stephanie-zimmer\n @szimmer\n @statsteph.bsky.social\n\n\nMy name is Stephanie Zimmer\nSenior Research Statistician at RTI international. RTI is an independent, research institute that provides research and technical services to government and commercial clients. Statistics is at the core of RTI. Gertrude Cox established the Statistics Research Division at RTI in 1958\nMy role includes working on large surveys - sampling design, weighting, overseeing data production\nMy day-to-day includes lots of management-ish stuff and meetings but I still code quite a bit\nMy stats group works on official statistics - censuses, surveys, and administrative data projects\nSampling, weighting, data cleaning, and analysis"
   },
   {
     "objectID": "index.html#team-change-toward-open-source-first",
     "href": "index.html#team-change-toward-open-source-first",
     "title": "Transforming a team to open-source first",
     "section": "Team change toward open-source first",
-    "text": "Team change toward open-source first\n\nStats team wants to take open-source first approach\nStats team primarily using SAS\nI love R and this is scary!\n\n\n\nReflecting on how my human language journey parallels with RTI’s organizational change\nI said I would learn Spanish for many years before I sat down and did it in 2020\nI had a strong motivator - my husband’s mother\nLearning alone on Duolingo only got me so far, had to add a real teacher and community experience"
+    "text": "Team change toward open-source first\n\nStats team wants to take open-source first approach\nStats team primarily using SAS\nI love R and this is scary!\n\n\n\nNo need to sell you on R! At my company, we’re exploring a move to open-source first for our statistical work\nHow this impacts our staff and our clients\nReflecting on how both my programming and human language journey parallels with RTI’s organizational change\nStaff are wanting skills that keep them current - marketable internally and externally"
+  },
+  {
+    "objectID": "index.html#tldr",
+    "href": "index.html#tldr",
+    "title": "Transforming a team to open-source first",
+    "section": "TLDR",
+    "text": "TLDR\n\nA bit of my personal journey\nOur training approach\nOur conversion approach\n\n\n\nCommunity\nMotivation\nTooling"
+  },
+  {
+    "objectID": "index.html#my-personal-coding-journey",
+    "href": "index.html#my-personal-coding-journey",
+    "title": "Transforming a team to open-source first",
+    "section": "My personal coding journey",
+    "text": "My personal coding journey\n\nNC State University: Bachelor’s in Statistics included SAS and MATLAB\nIowa State University: PhD in Statistics included R\nRTI: Research statistician, back to learning SAS, still using R\n\n \n\n\nNo programming exposure in high school\nVarious stats SAS classes, one math modeling course.\nLearned R before the tidyverse\nRTI sent me to SAS classes, learned quickly with a community of experts"
+  },
+  {
+    "objectID": "index.html#my-human-language-journey",
+    "href": "index.html#my-human-language-journey",
+    "title": "Transforming a team to open-source first",
+    "section": "My human language journey",
+    "text": "My human language journey\n\nNative English speaker with Native English parents \nStudied German in high school for 3 years  \nBegan learning Spanish in 2020   \n\n\n\nGerman: chose to learn because my grandmother was from Germany. My mother could also speak German yet never taught it to me. Outside of them, not too useful. No community\nSpanish: Always wanted to learn, very useful in the US. I kept saying I was going to learn it. Mañana, mañana, mañana. It wasn’t happening\nmy husband’s mother’s primary language was Spanish. We were spending more time with her and I wanted to be able to understand more when she was speaking with him. In my every day life, I encounter people speaking Spanish - grocery store, restaurants, travel, and more\nStarted with Duolingo. Learning alone on Duolingo only got me so far, had to add a real teacher and community experience\nTook a small online adult class with El Centro Hispano based in my city of Durham, NC\nBegan to listen more at home, try to speak\nReflecting on my journey learning Spanish, I saw a lot of parallels with successful learning of R\nMotivation is important\nOnline learning only gets you so far\nCommunity is important"
   },
   {
     "objectID": "index.html#self-paced-learning",
@@ -39,7 +46,7 @@
     "href": "index.html#webinars-showing-off-open-source",
     "title": "Transforming a team to open-source first",
     "section": "Webinars showing off open-source",
-    "text": "Webinars showing off open-source\n\nThese were not tutorials\nProvided demos, resources, and examples\nVery good for demonstrating workflows common to our group\n\n\n\nWe don’t do much modeling\nMostly data cleaning, sampling, weighting"
+    "text": "Webinars showing off open-source\n\nThese were not tutorials\nProvided demos, resources, and examples\nVery good for demonstrating workflows common to our group\n\n\n\nWe don’t do much modeling\nMostly data cleaning, sampling, weighting, descriptive analysis of surveys"
   },
   {
     "objectID": "index.html#create-cohort-of-mentors",
@@ -53,7 +60,7 @@
     "href": "index.html#office-hours-1.0",
     "title": "Transforming a team to open-source first",
     "section": "Office hours (1.0)",
-    "text": "Office hours (1.0)\n\nStarted to fill in the gap of self-paced learning\nIntention: staff bring questions\nReality: mentors have topics in their back pocket\nNot recorded\n\n\n\nLots of discussion of how SAS & R think differently, vector operations vs program data vector\nInitially thought recording would scare people into NOT asking questions\nHad lots of lurkers/observers/wallflowers\nPeople couldn’t consistently attend and kept wanting to go back to basics"
+    "text": "Office hours (1.0)\n\nStarted to fill in the gap of self-paced learning\nIntention: staff bring questions\nReality: mentors have topics in their back pocket\nNot recorded\n\n\n\nTwice a week\nLots of discussion of how SAS & R think differently, vector operations vs program data vector\nInitially thought recording would scare people into NOT asking questions\nAdd opportunities of learning for introverts and extroverts\nHad lots of lurkers/observers/wallflowers\nPeople couldn’t consistently attend and kept wanting to go back to basics"
   },
   {
     "objectID": "index.html#office-hours-2.0",
@@ -67,21 +74,35 @@
     "href": "index.html#pilot-projects",
     "title": "Transforming a team to open-source first",
     "section": "Pilot projects",
-    "text": "Pilot projects\n\nSmall set of projects/tasks converted\nMore detail in: useR 2025 - Navigating the Transition: Lessons from Adopting an Open-Source Approach - Carlos Petzold"
+    "text": "Pilot projects\n\nSmall set of projects/tasks converted\nMore detail in: useR 2025 - Navigating the Transition: Lessons from Adopting an Open-Source Approach - Carlos Petzold\n\n\n\nSome lessons learn included online trainings being too generic, some experienced staff should’ve started a bit of set-up with folks, open-ended “ask if you need” help didn’t work\nWhat worked well: paired programming, small group with specific training/examples, AI tools and StackOverflow\nMost new R users could work independently by the end of pilot"
   },
   {
     "objectID": "index.html#demonstrate-success",
     "href": "index.html#demonstrate-success",
     "title": "Transforming a team to open-source first",
     "section": "Demonstrate success",
-    "text": "Demonstrate success\n\nShow off projects already using open-source or recently converted\nHave staff discuss their experiences\n\n\n\nDemonstrate tasks (not even full projects) that are using R\nUse staff that already know R (mostly earlier career staff)"
+    "text": "Demonstrate success\n\nShow off projects already using open-source or recently converted\nHave staff discuss their experiences\n\n\n\nDemonstrate tasks (not even full projects) that are using R\nUse staff that already know R (mostly earlier career staff)\nShow side by side deliverables\nDiscussed staff mix used - senior staff with SAS experience and junior staff with R experience"
   },
   {
     "objectID": "index.html#building-our-own-tools",
     "href": "index.html#building-our-own-tools",
     "title": "Transforming a team to open-source first",
     "section": "Building our own tools",
-    "text": "Building our own tools\n\nIn-house package developed for codebook creation\nPackage developed for survey sampling, SampleSelectR\nCheatsheets for comparing R and SAS for common tasks\nAI tool made specifically for SAS to R conversion"
+    "text": "Building our own tools\n\nIn-house package developed for codebook creation\nPackage developed for survey sampling, SampleSelectR\nCheatsheets for comparing R and SAS for common tasks\nInternal AI tool made specifically for SAS to R conversion\n\n\n\nFrom our surveys and admin data, our key deliverables are data - describe these datasets with codebooks/data dictionaries\nNo package exactly met our need so a team adapted a package to add some more customization including question wording and more handling of missing values\nSampleSelectR: developed by RTI staff to handle complex survey sampling tasks common to our work\nCheatsheets: e.g., how to do merges in R vs SAS, common math/stats functions, transposing/pivoting, regression, and more. Making summary tables. Exporting nicely formatted tables to Excel\nAnalogy to writing a report in English and using AI to translate without review"
+  },
+  {
+    "objectID": "index.html#hindsight",
+    "href": "index.html#hindsight",
+    "title": "Transforming a team to open-source first",
+    "section": "Hindsight",
+    "text": "Hindsight\n\nProduce materials that are company specific\nProvide more structure in office hours\nStart as early as possible but training should be very closely timed to implementation\n\n\n\ninstalling R/RStudio, setting up GitHub, connecting to databases on YOUR systems\nplanned topics, mini projects"
+  },
+  {
+    "objectID": "index.html#final-thoughts",
+    "href": "index.html#final-thoughts",
+    "title": "Transforming a team to open-source first",
+    "section": "Final thoughts",
+    "text": "Final thoughts\n\nChange is hard!\nCommunity makes things better\nLearn what motivates people\nKeep listening to learners"
   },
   {
     "objectID": "index.html#q-a",
