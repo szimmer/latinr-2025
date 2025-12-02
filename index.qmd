@@ -14,7 +14,7 @@ format:
 
 <img src="img/Zimmer_Stephanie_510.jpg" style="border-radius: 50%;" width="300px"/>
 
-[![](img/RTI_logo_rgb_1in.png){width=10%}](https://www.rti.org/expert/stephanie-zimmer)
+[![](img/RTI_logo_cmyk_1in.jpg){width=10%}](https://www.rti.org/expert/stephanie-zimmer)
 
 [{{< fa brands linkedin >}} \@stephanie-zimmer](https://www.linkedin.com/in/stephanie-zimmer/)
 
@@ -220,7 +220,7 @@ format:
 
 <center>
 
-[![](img/RTI_logo_rgb_1in.png){width=10%}](https://www.rti.org/expert/stephanie-zimmer)
+[![](img/RTI_logo_cmyk_1in.jpg){width=10%}](https://www.rti.org/expert/stephanie-zimmer)
 
 [{{< fa brands linkedin >}} \@stephanie-zimmer](https://www.linkedin.com/in/stephanie-zimmer/)
 
