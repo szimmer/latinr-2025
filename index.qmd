@@ -8,13 +8,14 @@ format:
     theme: dracula
 ---
 
+
 ## About Me
 
 <center>
 
 <img src="img/Zimmer_Stephanie_510.jpg" style="border-radius: 50%;" width="300px"/>
 
-[![](img/RTI_logo_rgb_1in.png){width=10%}](https://www.rti.org/expert/stephanie-zimmer)
+[![](img/RTI_logo_cmyk_1in.jpg){width=10%}](https://www.rti.org/expert/stephanie-zimmer)
 
 [{{< fa brands linkedin >}} \@stephanie-zimmer](https://www.linkedin.com/in/stephanie-zimmer/)
 
@@ -22,18 +23,44 @@ format:
 
 [{{< fa brands bluesky >}} \@statsteph.bsky.social](https://bsky.app/profile/statsteph.bsky.social)
 
-
-
-
 ::: {.notes}
 - My name is Stephanie Zimmer
-- Senior Research Statistician at RTI international
+- Senior Research Statistician at RTI international. RTI is an independent, research institute that provides research and technical services to government and commercial clients. Statistics is at the core of RTI. Gertrude Cox established the Statistics Research Division at RTI in 1958
 - My role includes working on large surveys - sampling design, weighting, overseeing data production
 - My day-to-day includes lots of management-ish stuff and meetings but I still code quite a bit
 - My stats group works on official statistics - censuses, surveys, and administrative data projects
 - Sampling, weighting, data cleaning, and analysis
 :::
 
+
+## Team change toward open-source first
+
+- Stats team wants to take open-source first approach
+
+- Stats team primarily using SAS
+
+- I love R and this is scary!
+
+:::{.notes}
+- No need to sell you on R! At my company, we're exploring a move to open-source first for our statistical work
+- How this impacts our staff and our clients
+- Reflecting on how both my programming and human language journey parallels with RTI's organizational change
+- Staff are wanting skills that keep them current - marketable internally and externally
+:::
+
+## TLDR
+
+- A bit of my personal journey
+
+- Our training approach
+
+- Our conversion approach
+
+:::{.notes}
+- Community
+- Motivation
+- Tooling
+:::
 
 ## My personal coding journey
 
@@ -44,11 +71,9 @@ format:
 
 - RTI: Research statistician, back to learning SAS, still using R
 
-::: {layout-ncol=2}
 
-![](https://www.r-project.org/logo/Rlogo.png){width=45% fig-alt="R logo <https://www.r-project.org/logo/>"}
-![](img/sas-logo-sas-blue.png){width=45% fig-alt="SAS Logo <https://www.sas.com/en_us/news/media-gallery/logos.html>"}
-:::
+![](https://www.r-project.org/logo/Rlogo.png){.absolute bottom=50 left=100 width=100 height=100 fig-alt="R logo <https://www.r-project.org/logo/>"}
+![](img/sas-logo-sas-blue.png){.absolute bottom=50 right=100 width=200 height=100 fig-alt="SAS Logo <https://www.sas.com/en_us/news/media-gallery/logos.html>"}
 
 
 
@@ -70,9 +95,11 @@ format:
 ::: {.notes}
 - German: chose to learn because my grandmother was from Germany. My mother could also speak German yet never taught it to me. Outside of them, not too useful. No community
 
-- Spanish: my husband's mother's primary language was Spanish. We were spending more time with her and I wanted to be able to understand more when she was speaking with him. In my every day life, I encounter people speaking Spanish - grocery store, restaurants, travel, and more
+- Spanish: Always wanted to learn, very useful in the US. I kept saying I was going to learn it. Mañana, mañana, mañana. It wasn't happening
 
-- Started with Duolingo
+- my husband's mother's primary language was Spanish. We were spending more time with her and I wanted to be able to understand more when she was speaking with him. In my every day life, I encounter people speaking Spanish - grocery store, restaurants, travel, and more
+
+- Started with Duolingo. Learning alone on Duolingo only got me so far, had to add a real teacher and community experience
 
 - Took a small online adult class with El Centro Hispano based in my city of Durham, NC
 
@@ -87,20 +114,6 @@ format:
 - Community is important
 :::
 
-## Team change toward open-source first
-
-- Stats team wants to take open-source first approach
-
-- Stats team primarily using SAS
-
-- I love R and this is scary!
-
-:::{.notes}
-- Reflecting on how my human language journey parallels with RTI's organizational change
-- I said I would learn Spanish for many years before I sat down and did it in 2020
-- I had a strong motivator - my husband's mother
-- Learning alone on Duolingo only got me so far, had to add a real teacher and community experience
-:::
 
 # Our training approach
 
@@ -125,7 +138,7 @@ format:
 
 :::{.notes}
 - We don't do much modeling
-- Mostly data cleaning, sampling, weighting
+- Mostly data cleaning, sampling, weighting, descriptive analysis of surveys
 :::
 
 ## Create cohort of mentors
@@ -155,8 +168,10 @@ format:
 - Not recorded
 
 :::{.notes}
+- Twice a week
 - Lots of discussion of how SAS & R *think* differently, vector operations vs program data vector
 - Initially thought recording would scare people into NOT asking questions
+- Add opportunities of learning for introverts and extroverts
 - Had lots of lurkers/observers/wallflowers
 - People couldn't consistently attend and kept wanting to go back to basics
 :::
@@ -187,6 +202,13 @@ format:
 
 - More detail in: [useR 2025 - Navigating the Transition: Lessons from Adopting an Open-Source Approach - Carlos Petzold](https://www.youtube.com/watch?v=TPH76v0d8Wo)
 
+:::{.notes}
+- Some lessons learn included online trainings being too generic, some experienced staff should've started a bit of set-up with folks, open-ended "ask if you need" help didn't work
+- What worked well: paired programming, small group with specific training/examples, AI tools and StackOverflow
+- Most new R users could work independently by the end of pilot
+:::
+
+
 ## Demonstrate success
 
 - Show off projects already using open-source or recently converted
@@ -196,6 +218,8 @@ format:
 :::{.notes}
 - Demonstrate tasks (not even full projects) that are using R
 - Use staff that already know R (mostly earlier career staff)
+- Show side by side deliverables
+- Discussed staff mix used - senior staff with SAS experience and junior staff with R experience
 :::
 
 ## Building our own tools
@@ -206,21 +230,48 @@ format:
 
 - Cheatsheets for comparing R and SAS for common tasks
 
-- AI tool made specifically for SAS to R conversion
+- Internal AI tool made specifically for SAS to R conversion
+
+:::{.notes}
+- From our surveys and admin data, our key deliverables are data - describe these datasets with codebooks/data dictionaries
+- No package exactly met our need so a team adapted a package to add some more customization including question wording and more handling of missing values
+- SampleSelectR: developed by RTI staff to handle complex survey sampling tasks common to our work
+- Cheatsheets: e.g., how to do merges in R vs SAS, common math/stats functions, transposing/pivoting, regression, and more. Making summary tables. Exporting nicely formatted tables to Excel
+- Analogy to writing a report in English and using AI to translate without review
+:::
 
 # Closing
+
+## Hindsight 
+
+- Produce materials that are company specific
+
+- Provide more structure in office hours
+
+- Start as early as possible but training should be very closely timed to implementation
+
+:::{.notes}
+- installing R/RStudio, setting up GitHub, connecting to databases on YOUR systems
+- planned topics, mini projects
+:::
+
+
+## Final thoughts
 
 - Change is hard!
 
 - Community makes things better
 
-- Add opportunities of learning for introverts and extroverts
+- Learn what motivates people
+
+- Keep listening to learners
+
 
 ## Q & A
 
 <center>
 
-[![](img/RTI_logo_rgb_1in.png){width=10%}](https://www.rti.org/expert/stephanie-zimmer)
+[![](img/RTI_logo_cmyk_1in.jpg){width=10%}](https://www.rti.org/expert/stephanie-zimmer)
 
 [{{< fa brands linkedin >}} \@stephanie-zimmer](https://www.linkedin.com/in/stephanie-zimmer/)
 
